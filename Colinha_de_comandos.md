@@ -18,8 +18,4 @@ limitações
 
 git status = comando que mostra a situação do repositório que contém os trabalhos que estou realizando, isto é, ele mostra o status. 
 
-
-
-O que acontece se eu esquecer o -m no comando commit?
-
-
+O que acontece se eu esquecer o -m no comando commit? O git abre o editor VI que me permite escrever mensagens bem longas e elas ficam formatas em texto. 
