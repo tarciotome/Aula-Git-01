@@ -25,3 +25,5 @@ O que acontece se eu esquecer o -m no comando commit? O git abre o editor VI que
 git remote <nome do repositório> <ssh> = para criar um repositório remoto. Na verdade, este serve para criar a ponte entre o pc e o github. O ssh é fornecido pelo github.
 
 git push = é o comando que  é utilizado para enviar todo o arquivo do repositório local (pasto do pc)  para o github.
+
+Git pull = pull significa puxar. Sua função é trazer arquivos do github para a minha área local. 
