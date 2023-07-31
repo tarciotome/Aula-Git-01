@@ -11,3 +11,5 @@ Commit = é importante para mover os arquivos da staging area (purgatório) para
 Repositório local = local onde ficam salvos todas as versões dos arquivos da minha linha do tempo. 
 
 Staging area = área intermediária entre as duas primeiras trazidas acima. Nela posso decidir se salvo ou excluo o arquivo em análise. Onde os arquivos vão depois do git add.
+
+Área 04 - repositório remoto - é o github, local onde, nas nuvens, ficam salvos os projetos dos meus repositórios. 
