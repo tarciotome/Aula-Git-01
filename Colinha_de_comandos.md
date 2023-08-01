@@ -26,12 +26,10 @@ git push = é o comando que  é utilizado para enviar todo o arquivo do reposit�
 
 Git pull = pull significa puxar. Sua função é trazer arquivos do github para a minha área local. 
 
-## Colaboração:
+## Colaboração no github
 
 Inicia-se com o convite para compartilhamento do GitHub, após a confirmação, segue para o uso da ferramenta _clone_. 
 
 ***Vale ressaltar a necessidade de criar o clone desse projeto em uma pasta sem um git local, para não ocorrer erros com a comunicação com o Git com o GitHub***;
 
-* git clone SSH (Do repositório do seu colaborador);
-
-*   
+Inicialmente, deve-se entrar no seu login do GitHub, depois ir em "settings", depois "collaborations", depois "enviar um convite de colaboração", depois o colaborador aceita. Para conseguir ter os arquivos no PC, o colaborador deve criar um repositório/pasta, em seguida no GitBash deve selecionar essa pasta, depois copia o "ssh" do repositório no GitHub, depois no GitBash executa o comando "git clone ". Com isso, os arquivos da pasta do rementente (que estavam no GitHub) estarão disponíveis no PC do colaborador.
