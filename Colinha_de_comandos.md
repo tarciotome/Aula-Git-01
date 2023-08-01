@@ -34,4 +34,4 @@ Inicia-se com o convite para compartilhamento do GitHub, após a confirmação, 
 
 * git clone SSH (Do repositório do seu colaborador);
 
-* 
+*   
