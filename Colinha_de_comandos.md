@@ -34,4 +34,5 @@ Inicia-se com o convite para compartilhamento do GitHub, após a confirmação, 
 
 * git clone SSH (Do repositório do seu colaborador);
 
-* 
+git branch <name>: Faz uma histórico paralelo da linha principal;
+git checkout <branch_name>: Se mova entre commits e branchs;

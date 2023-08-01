@@ -12,4 +12,6 @@ Repositório local = local onde ficam salvos todas as versões dos arquivos da m
 
 Staging area = área intermediária entre as duas primeiras trazidas acima. Nela posso decidir se salvo ou excluo o arquivo em análise. Onde os arquivos vão depois do git add.
 
-Área 04 - repositório remoto - é o github, local onde, nas nuvens, ficam salvos os projetos dos meus repositórios. 
+Área 04 - repositório remoto - é o github, local onde, nas nuvens, ficam salvos os projetos dos meus repositórios.  
+
+Branch corresponde a linhas de commits paralelas a principal (podendo se fundir posteriormente), com mobilidade entre esses históricos via checkout <branch_name>
