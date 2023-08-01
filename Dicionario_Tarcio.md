@@ -23,3 +23,11 @@ Repositório local = local onde ficam salvos todas as versões dos arquivos da m
 Staging area = área intermediária entre as duas primeiras trazidas acima. Nela posso decidir se salvo ou excluo o arquivo em análise. Onde os arquivos vão depois do git add.
 
 Área 04 - repositório remoto - é o github, local onde, nas nuvens, ficam salvos os projetos dos meus repositórios. 
+
+git fork = cria uma cópia para mim independente do doc que busquei. O que eu fizer não altera o outro. 
+
+
+
+
+
+link para material = https://material.bits.vib.be/topics/git-introduction/)
