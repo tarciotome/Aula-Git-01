@@ -25,3 +25,13 @@ git remote <nome do repositório> <ssh> = para criar um repositório remoto. Na 
 git push = é o comando que  é utilizado para enviar todo o arquivo do repositório local (pasto do pc)  para o github.
 
 Git pull = pull significa puxar. Sua função é trazer arquivos do github para a minha área local. 
+
+## Colaboração:
+
+Inicia-se com o convite para compartilhamento do GitHub, após a confirmação, segue para o uso da ferramenta _clone_. 
+
+***Vale ressaltar a necessidade de criar o clone desse projeto em uma pasta sem um git local, para não ocorrer erros com a comunicação com o Git com o GitHub***;
+
+* git clone SSH (Do repositório do seu colaborador);
+
+* 
