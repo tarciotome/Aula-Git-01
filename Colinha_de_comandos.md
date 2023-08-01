@@ -12,7 +12,7 @@ por quê
 
 Como
 
-efeitos
+efeitos 
 
 limitações
 
@@ -35,8 +35,6 @@ Inicia-se com o convite para compartilhamento do GitHub, após a confirmação, 
 ***Vale ressaltar a necessidade de criar o clone desse projeto em uma pasta sem um git local, para não ocorrer erros com a comunicação com o Git com o GitHub***;
 
 * git clone SSH (Do repositório do seu colaborador);
-  
-  
 
 git remote <nome do repositório> <ssh> = para criar um repositório remoto. Na verdade, este serve para criar a ponte entre o pc e o github. O ssh é fornecido pelo github.
 
