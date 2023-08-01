@@ -34,4 +34,8 @@ Inicia-se com o convite para compartilhamento do GitHub, após a confirmação, 
 
 * git clone SSH (Do repositório do seu colaborador);
 
-* 
+
+
+Git branch = serve para criar uma linha do tempo paralela
+
+Git checkout = serve para entrar e sair das múltiplas linhas do tempo. 
