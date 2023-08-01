@@ -20,8 +20,6 @@ git status = comando que mostra a situação do repositório que contém os trab
 
 O que acontece se eu esquecer o -m no comando commit? O git abre o editor VI que me permite escrever mensagens bem longas e elas ficam formatas em texto. 
 
-
-
 git remote <nome do repositório> <ssh> = para criar um repositório remoto. Na verdade, este serve para criar a ponte entre o pc e o github. O ssh é fornecido pelo github.
 
 git push = é o comando que  é utilizado para enviar todo o arquivo do repositório local (pasto do pc)  para o github.
