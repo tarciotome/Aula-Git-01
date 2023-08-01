@@ -15,5 +15,4 @@ Staging area = área intermediária entre as duas primeiras trazidas acima. Nela
 Área 04 - repositório remoto - é o github, local onde, nas nuvens, ficam salvos os projetos dos meus repositórios. 
 
 olá! Tudo bem? marcelo Rezende. 
-
 Não houve conflito no teste anterior hhhhhhhhhhhh
